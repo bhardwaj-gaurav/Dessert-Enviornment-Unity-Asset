@@ -1,5 +1,22 @@
 # Dessert-Enviornment-Unity-Asset
+**#How to import Package in Unity Engine**
+**Steps to import package in Unity Engine.
 
+1) Create Project
+	a)open unity Hub then click on new project and select 3D core or 3D HDRP or 3D URP 
+	b)then Name your project and click create Project.
+
+1.1) If already created, Then,
+
+2) Goto
+   Assets > Import Package > Custom Package > Select the package which has .unitypackage Extension.
+
+** After package loads then window will pop up where you can select required data or you can import complete package by clicking import.
+
+**Notes:**
+** If package contains dependencies and window pops up to install and upgrade it, then click on install and upgrade.
+
+###################################################################################################################################################################################################################
 Bring your project to life with this beautifully crafted Rustic Desert Cabin Environment Pack. This high-quality 3D asset includes a fully detailed desert cabin surrounded by immersive props and scenery such as fences, a weathered outhouse, vibrant desert foliage, and a starry night backdrop. Perfect for creating Western, post-apocalyptic, or survival-themed environments, this asset is optimized for Unity projects with low-poly design and high-quality textures.
 
 
