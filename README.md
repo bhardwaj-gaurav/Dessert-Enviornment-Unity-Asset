@@ -1,5 +1,5 @@
 # Dessert-Enviornment-Unity-Asset
-**This is a sample of my work if you need this file or package, then drop me a mail on bhardwaj.13.gaurav@gmail.com.**
+**These images shows my work if you need this file or package, then drop me a mail on bhardwaj.13.gaurav@gmail.com.**
 
 **Unable to drop a file in repository because of larger file.**
 **#How to import Package in Unity Engine**
